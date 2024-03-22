@@ -1,5 +1,8 @@
 # Test Servier
 
+## Partie 1 : Python & Apache Beam
+See notebook `Pipeline Drug Mentions Extraction.ipynb`
+
 
 ## Partie 2 : SQL
 In this section regarding SQL query design, I utilized BigQuery, Given that BigQuery closely resembles SQL in terms of syntax.
